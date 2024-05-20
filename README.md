@@ -29,11 +29,11 @@ $ python3 CIFAR-10_CNN.py load
 
 The accuracy-epoch performance curve after running for 200 epochs 
 
-![AccuracyEpoch](YGNet_Keras/epoch_accuracy.png "curve")
+![AccuracyEpoch](YGNet_Keras_Classifier/epoch_accuracy.png "curve")
 
 The loss-epoch performance curve after running for 200 epochs
 
-![AccuracyLoss](YGNet_Keras/epoch_loss.png "curve1") 
+![AccuracyLoss](YGNet_Keras_Classifier/epoch_loss.png "curve1") 
 
 ## LeNet-5 Architecture Using PyTorch
 
