@@ -14,14 +14,14 @@ The source code allows training the model from scratch. Also, the pre-trained mo
 
 ```bash
 $ git clone git@https://github.com/Alokbpandey/project_airdale.git
-$ cd YGNet_Keras_Model
+$ cd project_airdale
 $ python3 CIFAR-10_CNN.py train
 ```
 
 This will train the model from scratch. The hyper-parameters can be tweaked as required. To load the pre-trained model:
 
 ```bash
-$ cd YGNet_Keras_Model
+$ cd project_airdale
 $ python3 CIFAR-10_CNN.py load
 ```
 
